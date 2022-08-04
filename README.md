@@ -1,5 +1,5 @@
 # RoomCRUD_Coroutines
-This project demonstrate to create SQL database using "ROOM" and create functions to manage database using "Coroutines"  in this project you can learn how to use 
+This project demonstrate to create SQL database using "ROOM" and create functions to manage database using "Coroutines" 
 
 # in this project you can learn how to use:
 ●ViewModels
